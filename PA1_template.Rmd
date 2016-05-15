@@ -5,6 +5,8 @@ output:
     keep_md: true
 ---
 
+Please open Assigment_1.Rmd to review the assigment. 
+
 
 ## Loading and preprocessing the data
 
